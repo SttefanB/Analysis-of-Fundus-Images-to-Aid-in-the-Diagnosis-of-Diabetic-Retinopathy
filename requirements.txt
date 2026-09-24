@@ -1,0 +1,8 @@
+streamlit
+Pillow
+numpy==1.26.4
+opencv-python-headless
+tensorflow
+pandas
+scikit-learn
+albumentations
