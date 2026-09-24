@@ -10,26 +10,15 @@ Supported by advanced OpenCV preprocessing (CLAHE and Ben Graham's transform wit
 
 
 
-\## 🛠️ Tech Stack
-
-\- \*\*Deep Learning:\*\* TensorFlow / Keras (Ordinal Regression, Focal Loss, Cosine Warmup Scheduler)
-
-\- \*\*Computer Vision:\*\* OpenCV, Albumentations (CLAHE, Ben Graham, Circular Masking, Auto-Crop)
-
-\- \*\*Data Science:\*\* Python, NumPy, Pandas, Scikit-Learn
-
-\- \*\*Deployment:\*\* Streamlit
 
 
-
-\## 🚀 How to run the Streamlit Demo
+\##  How to run the Streamlit Demo
 
 
 
 1\. Clone this repository:
 
 `git clone https://github.com/Username/Diabetic-Retinopathy-Deep-Learning.git`
-
 
 
 2\. Install dependencies:
